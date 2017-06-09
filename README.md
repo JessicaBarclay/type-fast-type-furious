@@ -3,7 +3,7 @@
 Welcome to Type-Fast-Type-Furious. This is a single page application built using Vanilla JavaScript that puts your typing speed to the test.
 
 ### How to play
-Vistit here and start typing! [Type-Fast-Type-Furious](https://jessicabarclay.github.io/type-fast-type-furious/)
+[Visit here and start typing!](https://jessicabarclay.github.io/type-fast-type-furious/)
 
 ### Technologies
 
@@ -21,8 +21,8 @@ open index.html
 ```
 
 ### Testing
-You will need Node and NPM installed to run tests:
-In your terminal, run:
+You will need Node and NPM installed to run tests. Tests will run in the headless browser PhantomJS.
+Run the following from the command line;
 ```
 npm install
 npm install -g karma-cli
@@ -39,31 +39,31 @@ karma start
 
 ```
 As a human that enjoys basking in the glory of my typing speed.
-So that i can put my speed to the test.
+So that I can put my speed to the test.
 I want a game that can tell me my WPM.
 ```
 ```
 As a human that looks up to Ron Swanson.
-So that i can revel in his greatness.
-i want the game to test me by listing funny quotes for me to type.
+So that I can revel in his greatness.
+I want the game to test me by listing quotes from Ron for me to type.
 ```
 ```
 As a human that enjoys basking in the glory of my typing speed,
-so that i can see what i'm meant to be typing.
-I'd like the text i'm meant to be typing to be displayed.
+So that I can see what I'm meant to be typing.
+I'd like the text I'm meant to be typing to be displayed.
 ```
 ```
 As a human that enjoys basking in the glory of my typing speed,
-so that i can have my speed assessed.
+So that I can have my speed assessed.
 I'd like an area in which to type.
 ```
 ```
 As a human that enjoys basking in the glory of my typing speed.
-so that i can gain satisfaction at not having typed junk.
-i'd like to fail unless i type the text excerpt exactly as specified.
+So that I can gain satisfaction at not having typed junk.
+I would like to fail unless I type the text excerpt exactly as specified.
 ```
 ```
 As a person that appreciates pretty design.
-So that i can better appreciate my typing experience.
+So that I can better appreciate my typing experience.
 I would like to be tested on a site that looks lovely.
 ```
