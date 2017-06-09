@@ -25,7 +25,7 @@ You will need Node and NPM installed to run tests:
 In your terminal, run:
 ```
 npm install
-npm install -g karma
+npm install -g karma-cli
 karma start
 ```
 
