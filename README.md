@@ -1,9 +1,9 @@
 # Type Fast Type Furious
 
-Welcome to Type-Fast-Type-Furious. This is a single page application built using JavaScript that puts your typing speed to the test.
+Welcome to Type-Fast-Type-Furious. This is a single page application built using Vanilla JavaScript that puts your typing speed to the test.
 
 ### How to play
-click here to play [Type-Fast-Type-Furious](https://adc17.github.io/type-fast-type-furious/)
+Vistit here and start typing! [Type-Fast-Type-Furious](https://jessicabarclay.github.io/type-fast-type-furious/)
 
 ### Technologies
 
@@ -14,21 +14,24 @@ click here to play [Type-Fast-Type-Furious](https://adc17.github.io/type-fast-ty
 
 ### Local Installation
 In your terminal, run:
-
-`git clone git@github.com:adc17/type-fast-type-furious.git`<br>
-`cd type-fast-type-furious`<br>
-`open index.html`
+```
+git clone git@github.com:adc17/type-fast-type-furious.git
+cd type-fast-type-furious
+open index.html
+```
 
 ### Testing
 You will need Node and NPM installed to run tests:
 In your terminal, run:
-
-`npm install`<br>
-`npm install -g karma`<br>
-`karma start`
+```
+npm install
+npm install -g karma
+karma start
+```
 
 ### Collaborators
 * [Jessica Barclay](https://github.com/JessicaBarclay)
+* [Alex Chalk](https://github.com/adc17)
 * [David Gray](https://github.com/DSeanGray)
 * [Miles Illsley](https://github.com/milesillsley)
 
