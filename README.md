@@ -15,7 +15,7 @@ Vistit here and start typing! [Type-Fast-Type-Furious](https://jessicabarclay.gi
 ### Local Installation
 In your terminal, run:
 ```
-git clone git@github.com:adc17/type-fast-type-furious.git
+git clone git@github.com:jessicabarclay/type-fast-type-furious.git
 cd type-fast-type-furious
 open index.html
 ```
