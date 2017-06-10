@@ -3,7 +3,6 @@
 Welcome to Type-Fast-Type-Furious. This is a single page application built using Vanilla JavaScript that puts your typing speed to the test.
 
 ![Alt text](https://github.com/JessicaBarclay/type-fast-type-furious/blob/master/links/results.png "results")
-![Alt text](https://github.com/JessicaBarclay/type-fast-type-furious/blob/master/links/error.png "error")
 
 ### How to play
 [Visit here and start typing!](https://jessicabarclay.github.io/type-fast-type-furious/)
@@ -13,7 +12,6 @@ Welcome to Type-Fast-Type-Furious. This is a single page application built using
 * Language: Javascript, Node.js
 * Testing: Jasmine and Karma
 * API: [Ron Swanson Quotes](http://ron-swanson-quotes.herokuapp.com/v2/quotes)
-
 
 ### Local Installation
 In your terminal, run:
@@ -37,6 +35,8 @@ karma start
 * [Alex Chalk](https://github.com/adc17)
 * [David Gray](https://github.com/DSeanGray)
 * [Miles Illsley](https://github.com/milesillsley)
+
+![Alt text](https://github.com/JessicaBarclay/type-fast-type-furious/blob/master/links/error.png "error")
 
 ### User Stories
 
