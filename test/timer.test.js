@@ -40,7 +40,7 @@ describe('Timer', function() {
       expect(document.getElementById('timer').innerHTML).toEqual('Time: 2 seconds');
     });
 
-    it('total time when stopped', function() {
+    it('shows total time when stopped', function() {
       jasmine.clock().tick(2100);
       stopTimer();
       expect(document.getElementById('timer').innerHTML).toEqual('Time: 2.10 seconds');
@@ -53,7 +53,7 @@ describe('Timer', function() {
       expect(document.getElementById('timer').innerHTML).toEqual('Time: 2.10 seconds');
     });
 
-    it('user\'s wpm after completing sentence', function() {
+    it('shows user\'s wpm after completing sentence', function() {
       jasmine.clock().tick(4000);
       startTimer();
       stopTimer(4);

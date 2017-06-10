@@ -15,7 +15,6 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'jquery-3.2.1.js',
       'lib/*.js',
       'test/*.js',
       '*.html'
@@ -24,7 +23,9 @@ module.exports = function(config) {
 
     // list of files to exclude
     exclude: [
+      'quoteAPI.js',
       'lib/interactivity.js',
+      'public/stylesheet.css',
     ],
 
 
@@ -45,7 +46,6 @@ module.exports = function(config) {
     // possible values: 'dots', 'progress'
     // available reporters: https://npmjs.org/browse/keyword/karma-reporter
     reporters: ['progress'],
-
 
     // web server port
     port: 9876,

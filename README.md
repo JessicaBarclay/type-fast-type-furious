@@ -29,6 +29,7 @@ npm install
 npm install -g karma-cli
 karma start
 ```
+![Alt text](https://github.com/JessicaBarclay/type-fast-type-furious/blob/master/links/test.png "test")
 
 ### Collaborators
 * [Jessica Barclay](https://github.com/JessicaBarclay)
