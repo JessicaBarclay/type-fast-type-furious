@@ -1,0 +1,53 @@
+body {
+  background: #304352;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+
+input[type='text']{
+  width: 280px;
+  height: 38px;
+  margin-left: -150px;
+  margin-top: -19px;
+  position: fixed;
+  left: 50%;
+  padding-left: 10px;
+  padding-right: 10px;
+  paddin: 10px;
+  transition: box-shadow 320ms;
+  box-shadow: 0px 0px 8px 10px rgba(0,0,0,0.1);
+  border-radius: 3px;
+  font-size: 18px;
+  border: 0px;
+  top: 50%;
+}
+
+input[type='text']:focus {
+  outline: 0px;
+  outline-offset: 0px;
+  box-shadow: 0px 0px 1px 5px rgba(0,0,0,0.12);
+}
+
+.api-request {
+  width: 300px;
+  height: 38px;
+  margin-left: -150px;
+  margin-top: -19px;
+  position: fixed;
+  left: 50%;
+  top: 10%;
+}
+
+.results {
+  margin-left: -150px;
+  margin-top: -19px;
+  position: fixed;
+  left: 50%;
+  top: 60%;
+}

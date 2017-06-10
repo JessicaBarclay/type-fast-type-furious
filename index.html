@@ -1,19 +1,25 @@
+<!DOCTYPE html>
 <html>
 
 <head>
+  <meta charset="utf-8">
   <title>Type Fast, Type Furious</title>
+  <link rel="stylesheet" href="public/stylesheet.css">
 </head>
 
 <body>
-  <p id="paragraph"></p>
-    <input id="userInput" type="text" name="userInput" placeholder="Start Typing...">
-  <p id="result"></p>
-  Time: <span id="timer"></span>
-  WPM: <span id="wpm"></span>
+  <div class="api-request">
+    <p id="paragraph"></p>
+  </div>
+  <input id="userInput" type="text" name="userInput" placeholder="Start Typing...">
+  <div class="results">
+    <span id="timer"></span><br>
+    <span id="wpm"></span>
+  </div>
 </body>
-<script src="lib/quoteAPI.js"></script>
-<script src="lib/timer.js"></script>
-<script src="lib/interactivity.js"></script>
-<script src="lib/interactiveFunctions.js"></script>
+  <script src="lib/quoteAPI.js"></script>
+  <script src="lib/timer.js"></script>
+  <script src="lib/interactivity.js"></script>
+  <script src="lib/interactiveFunctions.js"></script>
 
 </html>

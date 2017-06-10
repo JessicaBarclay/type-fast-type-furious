@@ -37,12 +37,12 @@ describe('Interactive behaviour', function() {
 
     it('markWordAsTyped changes the colour of words to green', function() {
       markWordAsTyped(words, completedWords);
-      expect(document.getElementById('0').style.color).toEqual('green');
+      expect(document.getElementById('0').style.color).toEqual('rgb(234, 234, 234)');
     });
 
     it('markWordAsIncorrect changes the colour of words to red', function() {
       markWordAsIncorrect(words, completedWords);
-      expect(document.getElementById('0').style.color).toEqual('red');
+      expect(document.getElementById('0').style.color).toEqual('rgb(189, 57, 57)');
     });
 
     it('markWordAsTyped adds word to completedWords array', function() {
