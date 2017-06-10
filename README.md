@@ -2,6 +2,9 @@
 
 Welcome to Type-Fast-Type-Furious. This is a single page application built using Vanilla JavaScript that puts your typing speed to the test.
 
+![Alt text](https://github.com/JessicaBarclay/type-fast-type-furious/blob/master/links/results.png "results")
+![Alt text](https://github.com/JessicaBarclay/type-fast-type-furious/blob/master/links/error.png "error")
+
 ### How to play
 [Visit here and start typing!](https://jessicabarclay.github.io/type-fast-type-furious/)
 
