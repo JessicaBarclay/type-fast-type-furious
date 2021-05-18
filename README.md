@@ -21,16 +21,6 @@ cd type-fast-type-furious
 open index.html
 ```
 
-### Testing
-You will need Node and NPM installed to run tests. Tests will run in the headless browser PhantomJS.
-Run the following from the command line;
-```
-npm install
-npm install -g karma-cli
-karma start
-```
-![Alt text](https://github.com/JessicaBarclay/type-fast-type-furious/blob/master/links/test.png "test")
-
 ### Collaborators
 * [Jessica Barclay](https://github.com/JessicaBarclay)
 * [Alex Chalk](https://github.com/adc17)
